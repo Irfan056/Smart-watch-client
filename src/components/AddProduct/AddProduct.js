@@ -1,6 +1,6 @@
 import React from 'react';
 import { useForm } from "react-hook-form";
-
+// add product
 const AddProduct = () => {
     const { register, handleSubmit, reset } = useForm();
 
